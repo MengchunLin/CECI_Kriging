@@ -1,0 +1,10 @@
+{
+    "file1": "02",
+    "positions_1": 1.0,
+    "file2": "04",
+    "positions_2": 1500.0,
+    "prediction": "03",
+    "prediction_position": 800.0,
+    "weight_1": 0.0,
+    "weight_2": 0.0
+}
